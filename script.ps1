@@ -67,7 +67,7 @@
 catch {}
 
 
-$result = Invoke-WebRequest -URI http://zerator.com/wp-json/pages/8
+$result = Invoke-WebRequest -URI http://zerator.com/wp-json/wp/v2/pages/8
 If ($result.StatusCode -ne 200) {
     Write-Host "Status code is {$result.StatusCode}"
     return
