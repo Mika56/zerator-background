@@ -7,7 +7,7 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{1B5680DA-2EAC-4F67-B047-3C6D4DA1D004}
 AppName=Zerator Background
-AppVersion=1.0
+AppVersion=1.0.1
 ;AppVerName=Zerator Background 1.0
 AppPublisher=Mika56
 DefaultDirName={pf}\Zerator Background
